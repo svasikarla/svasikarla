@@ -21,9 +21,11 @@ Building intelligent systems that solve real business problems. Based in India, 
 
 | Project | Description | Tech Stack | Live Demo | Status |
 |---------|-------------|-----------|-----------|--------|
+| **NLSQLPro** | Natural language to SQL translation | TypeScript, Next.js, Supabase | [Visit](https://nlsql-pro.vercel.app/) | 🟢 Active |
 | **CorePragyaAdvanced** | AI-powered knowledgebase with knowledge graph visualization | TypeScript, Next.js, PostgreSQL, Azure OpenAI | [Visit](https://core-pragya-advanced.vercel.app) | 🟢 Active |
 | **BimaBuddyAdvanced** | Insurance product suite with competitive market analysis | TypeScript, Next.js, Supabase | [Visit](https://bima-buddy-advanced.vercel.app) | 🟢 Active |
 | **IGCSEStudentGuide** | Educational content platform for IGCSE students | TypeScript, Next.js, Supabase | [Visit](https://igcse-student-guide.vercel.app) | 🟢 Active |
+
 
 ---
 
