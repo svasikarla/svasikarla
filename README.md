@@ -22,9 +22,10 @@ Building intelligent systems that solve real business problems. Based in India, 
 | Project | Description | Tech Stack | Live Demo | Status |
 |---------|-------------|-----------|-----------|--------|
 | **NLSQLPro** | Natural language to SQL translation | TypeScript, Next.js, Supabase | [Visit](https://nlsql-pro.vercel.app/) | 🟢 Active |
-| **CorePragyaAdvanced** | AI-powered knowledgebase with knowledge graph visualization | TypeScript, Next.js, PostgreSQL, Azure OpenAI | [Visit](https://core-pragya-advanced.vercel.app) | 🟢 Active |
+| **CorePragyaAdvanced** | AI-powered knowledgebase with knowledge graph visualization, RSS feed ingestion, trending topic identification & learning guidance | TypeScript, Next.js, PostgreSQL, Azure OpenAI | [Visit](https://core-pragya-advanced.vercel.app) | 🟢 Active |
 | **BimaBuddyAdvanced** | Insurance product suite with competitive market analysis | TypeScript, Next.js, Supabase | [Visit](https://bima-buddy-advanced.vercel.app) | 🟢 Active |
 | **IGCSEStudentGuide** | Educational content platform for IGCSE students | TypeScript, Next.js, Supabase | [Visit](https://igcse-student-guide.vercel.app) | 🟢 Active |
+| **ConceptForge** | AI concept learning platform — generates structured learning paths & explanations for any concept | TypeScript, Next.js | Private Repo | 🟢 Active |
 
 
 ---
@@ -33,7 +34,9 @@ Building intelligent systems that solve real business problems. Based in India, 
 
 Building intelligent systems that transform data into actionable knowledge:
 
-- **CorePragya** - AI powered knowledgebase
+- **CorePragyaAdvanced** - AI-powered knowledgebase with knowledge graph visualization, RSS feed ingestion, trending topic identification & personalized learning guidance
+- **CorePragya** - AI powered knowledgebase (foundation)
+- **ConceptForge** - AI concept learning platform; generates structured learning paths and deep explanations for any topic
 - **NLSQLPro** - Natural language to SQL translation
 - **LocalRAG** - Local RAG implementation for private document processing
 - **WiseCache** - Knowledge cache repository and optimization
@@ -56,6 +59,7 @@ Domain expertise in financial and insurance technology:
 
 Creating accessible learning tools powered by AI:
 
+- **ConceptForge** - AI concept learning platform; generates structured learning paths and explanations for any concept (private)
 - **IGCSEStudentGuide** - IGCSE exam preparation platform (22 deployments)
 - **adishankaracharysite** - Wisdom and philosophical content
 - Content generation with AI at scale
@@ -64,7 +68,7 @@ Creating accessible learning tools powered by AI:
 
 ## 📊 My Stats
 
-💻 16 Active Projects
+💻 17 Active Projects
 🚀 14+ Production Deployments
 📝 199 Contributions Last Year
 ⚡ TypeScript 92.3% | JavaScript 4.9% | Python for AI/ML
@@ -100,10 +104,10 @@ Creating accessible learning tools powered by AI:
 
 | Domain | Focus | Projects |
 |--------|-------|----------|
-| **AI/ML Systems** | Knowledge bases, RAG, LLM integration | CorePragya, NLSQLPro, LocalRAG |
+| **AI/ML Systems** | Knowledge bases, RAG, LLM integration | CorePragyaAdvanced, NLSQLPro, LocalRAG |
 | **SaaS Development** | Full-stack web apps, product architecture | BimaBuddy, IGCSEStudentGuide |
 | **Market Research** | Competitive analysis, feasibility studies | Insurance, EdTech, FinTech |
-| **EdTech** | AI-powered learning platforms | IGCSEStudentGuide, Content Gen |
+| **EdTech** | AI-powered learning platforms | ConceptForge, IGCSEStudentGuide, Content Gen |
 | **Cache & Optimization** | Performance, knowledge optimization | WiseCache, wisecachepro |
 
 ---
@@ -139,4 +143,4 @@ Creating accessible learning tools powered by AI:
 
 ---
 
-*Last updated: November 2025 | Building tomorrow's AI products today*
+*Last updated: April 2026 | Building tomorrow's AI products today*
