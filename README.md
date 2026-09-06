@@ -12,6 +12,7 @@ Building intelligent systems that solve real business problems. Based in India, 
 - **SaaS Products**: End-to-end web applications with production deployments
 - **EdTech**: AI-powered educational platforms with market validation
 - **Market Research**: Competitive analysis and feasibility studies for emerging tech
+- **Financial Analytics**: Stock analysis, investment research platforms
 
 ---
 
@@ -22,11 +23,13 @@ Building intelligent systems that solve real business problems. Based in India, 
 | Project | Description | Tech Stack | Live Demo | Status |
 |---------|-------------|-----------|-----------|--------|
 | **NLSQLPro** | Natural language to SQL translation | TypeScript, Next.js, Supabase | [Visit](https://nlsql-pro.vercel.app/) | 🟢 Active |
-| **CorePragyaAdvanced** | AI-powered knowledgebase with knowledge graph visualization, RSS feed ingestion, trending topic identification & learning guidance | TypeScript, Next.js, PostgreSQL, Azure OpenAI | [Visit](https://core-pragya-advanced.vercel.app) | 🟢 Active |
+| **CorePragyaAdvanced** | AI-powered knowledgebase with knowledge graph visualization, RSS feed ingestion, trending topic identification & learning guidance | TypeScript, Next.js, PostgreSQL, Azure OpenAI | [Visit](https://corepragya-advanced.vercel.app) | 🟢 Active |
 | **BimaBuddyAdvanced** | Insurance product suite with competitive market analysis | TypeScript, Next.js, Supabase | [Visit](https://bima-buddy-advanced.vercel.app) | 🟢 Active |
 | **IGCSEStudentGuide** | Educational content platform for IGCSE students | TypeScript, Next.js, Supabase | [Visit](https://igcse-student-guide.vercel.app) | 🟢 Active |
 | **ConceptForge** | AI concept learning platform — generates structured learning paths & explanations for any concept | TypeScript, Next.js | Private Repo | 🟢 Active |
-
+| **skillpilot** | Skill development & career guidance platform | TypeScript | [Explore](#) | 🟢 Active |
+| **stockanalyst** | Stock market analysis and investment insights | Python | [Explore](#) | 🟢 Active |
+| **ArthVault** | Mobile-first financial/asset management application | Kotlin | [Explore](#) | 🟢 Active |
 
 ---
 
@@ -39,6 +42,7 @@ Building intelligent systems that transform data into actionable knowledge:
 - **ConceptForge** - AI concept learning platform; generates structured learning paths and deep explanations for any topic
 - **NLSQLPro** - Natural language to SQL translation
 - **LocalRAG** - Local RAG implementation for private document processing
+- **1Pgwisecache** - Single page cache summary system from C-AIML
 - **WiseCache** - Knowledge cache repository and optimization
 - **wisecachepro** - Production-grade cache solutions
 
@@ -49,8 +53,13 @@ Building intelligent systems that transform data into actionable knowledge:
 Domain expertise in financial and insurance technology:
 
 - **BimaBuddy Series** - Insurance product ecosystem
-- **USInsuranceDetails** - US market analysis and data
+- **BimaBuddyAdvanced** - Advanced insurance assistant with competitive analysis
+- **bimabuddy** - Core insurance assistant bot
+- **bimabuddykb** - Insurance knowledge base
 - **health-insurance-india** - India health insurance research
+- **stockanalyst** - Stock market analysis platform (NEW)
+- **ArthVault** - Mobile asset & financial management (NEW - Kotlin)
+- **USInsuranceDetails** - US market analysis and data
 - Market research across 4+ insurance/fintech domains
 
 ---
@@ -61,20 +70,21 @@ Creating accessible learning tools powered by AI:
 
 - **ConceptForge** - AI concept learning platform; generates structured learning paths and explanations for any concept (private)
 - **IGCSEStudentGuide** - IGCSE exam preparation platform (22 deployments)
+- **skillpilot** - Skill development and career guidance platform (NEW)
 - **adishankaracharysite** - Wisdom and philosophical content
+- **AI_RoadMap** - AI learning roadmap and curriculum (NEW)
 - Content generation with AI at scale
 
 ---
 
 ## 📊 My Stats
 
-💻 17 Active Projects
+💻 19+ Active Projects (Updated)
 🚀 14+ Production Deployments
-📝 199 Contributions Last Year
-⚡ TypeScript 92.3% | JavaScript 4.9% | Python for AI/ML
+📝 199+ Contributions Last Year
+⚡ TypeScript 92.3% | Python | Kotlin
 🏆 Pull Shark x2 Achievement
-
-
+📈 Stock Analysis & Financial Tech Focus (NEW)
 
 
 ---
@@ -83,7 +93,8 @@ Creating accessible learning tools powered by AI:
 
 **Languages & Frameworks**
 - TypeScript, JavaScript (Node.js, React, Next.js)
-- Python (AI/ML, RAG systems)
+- Python (AI/ML, RAG systems, Financial Analysis)
+- Kotlin (Mobile development)
 - SQL (PostgreSQL, Supabase)
 
 **AI/ML & LLMs**
@@ -105,20 +116,36 @@ Creating accessible learning tools powered by AI:
 | Domain | Focus | Projects |
 |--------|-------|----------|
 | **AI/ML Systems** | Knowledge bases, RAG, LLM integration | CorePragyaAdvanced, NLSQLPro, LocalRAG |
-| **SaaS Development** | Full-stack web apps, product architecture | BimaBuddy, IGCSEStudentGuide |
-| **Market Research** | Competitive analysis, feasibility studies | Insurance, EdTech, FinTech |
-| **EdTech** | AI-powered learning platforms | ConceptForge, IGCSEStudentGuide, Content Gen |
-| **Cache & Optimization** | Performance, knowledge optimization | WiseCache, wisecachepro |
+| **SaaS Development** | Full-stack web apps, product architecture | BimaBuddy, IGCSEStudentGuide, skillpilot |
+| **Market Research** | Competitive analysis, feasibility studies | Insurance, EdTech, FinTech, Stock Market |
+| **EdTech** | AI-powered learning platforms | ConceptForge, IGCSEStudentGuide, AI_RoadMap |
+| **Financial Analytics** | Stock analysis, investment research | stockanalyst, ArthVault |
+| **Mobile Development** | Cross-platform mobile apps | ArthVault (Kotlin) |
+| **Cache & Optimization** | Performance, knowledge optimization | WiseCache, wisecachepro, 1Pgwisecache |
 
 ---
 
 ## 📈 Recent Focus Areas
 
+- **NEW**: Financial analytics and stock market research
+- **NEW**: Mobile development with Kotlin for financial apps
+- **NEW**: Skill development platforms and career guidance
 - Multi-LLM support (Azure OpenAI, local models)
 - Knowledge graph visualization for AI systems
 - Content generation at scale with quality validation
 - Production infrastructure for AI applications
-- Market feasibility analysis for tech startups
+
+---
+
+## 🚀 Latest Additions (2026)
+
+### New Projects Launched:
+1. **stockanalyst** (Python) - Stock market analysis and investment insights
+2. **ArthVault** (Kotlin) - Mobile-first financial asset management
+3. **skillpilot** (TypeScript) - Career development and skill guidance platform
+4. **AI_RoadMap** (HTML) - Comprehensive AI learning roadmap
+
+These projects expand my portfolio into financial analytics and mobile development while maintaining excellence in AI-powered solutions.
 
 ---
 
@@ -127,7 +154,9 @@ Creating accessible learning tools powered by AI:
 - AI/ML product development
 - SaaS technical consulting
 - EdTech solutions
+- Financial analytics & FinTech platforms
 - Market research & competitive analysis
+- Mobile app development (Kotlin, React Native)
 - Startup technical guidance
 
 📧 **Contact**: vasikarla.satish@outlook.com
@@ -140,7 +169,8 @@ Creating accessible learning tools powered by AI:
 - **Primary Repository**: BimaBuddyAdvanced (49 commits, 41 deployments)
 - **Deployment Frequency**: Multiple per week across 3+ flagship projects
 - **Contribution Pattern**: Focused weekly sprints on specific projects
+- **Language Distribution**: TypeScript (92.3%), Python, Kotlin
 
 ---
 
-*Last updated: April 2026 | Building tomorrow's AI products today*
+*Last updated: September 2026 | Building tomorrow's AI products today*
