@@ -42,7 +42,7 @@ I design and ship AI-native products end to end: knowledge systems (RAG), natura
 - **InsureAI (US Insurance Details)** — upload US health, dental, vision and life policies for OCR, red-flag detection and comparison. [Live](https://us-insurance-details.vercel.app)
 - **Society Finance** — maintenance billing, numbered receipts, expenses, defaulter aging and audit trail for housing societies, with treasurer, committee and auditor roles
 - **[SukritiHub](https://github.com/svasikarla/SukritiHub123-main)** — residential society operations: residents, visitors, guards, vendors, domestic-help attendance and bookkeeping
-- **[health-insurance-india](https://github.com/svasikarla/health-insurance-india)**, **[bimabuddy](https://github.com/svasikarla/bimabuddy)** and **bimabuddykb** — the earlier versions that BimaBuddyAdvanced grew from
+- **[health-insurance-india](https://github.com/svasikarla/health-insurance-india)** and **[bimabuddy](https://github.com/svasikarla/bimabuddy)** — the earlier versions that BimaBuddyAdvanced grew from
 
 ## 🌡️ Climate & Utilities
 
